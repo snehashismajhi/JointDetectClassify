@@ -3,3 +3,15 @@ Anomaly activities such as robbery, explosion, accidents, etc. need immediate ac
 
 # Proposed Framework
 ![Prposed Framework](https://github.com/snehashismajhi/JointDetectClassify/blob/main/FG21%20Framework.jpg)
+
+# First-Level Attention Module
+![First-Level Attention Module](https://github.com/snehashismajhi/JointDetectClassify/blob/main/First-Level%20Attention.jpg)
+
+# Second-Level Attention Module
+![Second-Level Attention Module](https://github.com/snehashismajhi/JointDetectClassify/blob/main/Second-Level%20Attention.jpg)
+
+# Anomaly Detection Performance Comparision
+![Anomaly Detection Performance Comparision](https://github.com/snehashismajhi/JointDetectClassify/blob/main/AUC%20Compare.JPG)
+
+# Anomaly Classification Performance
+![Anomaly Classification Performance](https://github.com/snehashismajhi/JointDetectClassify/blob/main/Confusion%20Matrix.jpg)
