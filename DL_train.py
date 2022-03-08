@@ -18,7 +18,7 @@ class DataLoader_MIL_train(Sequence):
         self.video_path_anomaly = './data/Abnormal_Train_UCF.txt' ############ video_path_anomaly
         self.normal_files = [i.strip()[:-4] for i in open(self.video_path_normal).readlines()]
         self.anomaly_files = [i.strip()[:-4] for i in open(self.video_path_anomaly).readlines()]
-        self.path_frame_feature = "E:\\Research\\Features\\UCF\\I3D_center_crop_GAP\\"#"./data/I3D_UCF/"
+        self.path_frame_feature = './data/I3D_UCF/'
 
     def __len__(self):
         return int(len(self.normal_files)/self.batch_size)
