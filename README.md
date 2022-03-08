@@ -4,14 +4,27 @@ Anomaly activities such as robbery, explosion, accidents, etc. need immediate ac
 # Proposed Framework
 ![Prposed Framework](https://github.com/snehashismajhi/JointDetectClassify/blob/main/FG21%20Framework.jpg)
 
-# First-Level Attention Module
+## First-Level Attention Module
 ![First-Level Attention Module](https://github.com/snehashismajhi/JointDetectClassify/blob/main/First-Level%20Attention.jpg)
 
-# Second-Level Attention Module
+## Second-Level Attention Module
 ![Second-Level Attention Module](https://github.com/snehashismajhi/JointDetectClassify/blob/main/Second-Level%20Attention.jpg)
 
-# Anomaly Detection Performance Comparision
+## Anomaly Detection Performance Comparision
 ![Anomaly Detection Performance Comparision](https://github.com/snehashismajhi/JointDetectClassify/blob/main/AUC%20Compare.JPG)
 
-# Anomaly Classification Performance
+## Anomaly Classification Performance
 ![Anomaly Classification Performance](https://github.com/snehashismajhi/JointDetectClassify/blob/main/Confusion%20Matrix.jpg)
+
+# For Citing
+```
+@INPROCEEDINGS{9667006,
+  author={Majhi, Snehashis and Das, Srijan and Brémond, François and Dash, Ratnakar and Sa, Pankaj Kumar},
+  booktitle={2021 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021)}, 
+  title={Weakly-supervised Joint Anomaly Detection and Classification}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-7},
+  doi={10.1109/FG52635.2021.9667006}}
+  ```
