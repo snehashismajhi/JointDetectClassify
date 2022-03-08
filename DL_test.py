@@ -14,7 +14,7 @@ class DataLoader_test_detect(Sequence):
         self.segment_size = segment_size
         self.temp_annotation =  './data/Temporal_Anomaly_Annotation_for_Testing_Videos_UCF.txt'
         self.test_files = [i.strip() for i in open(self.temp_annotation).readlines()]
-        self.path_frame_feature ="E:\\Research\\Features\\UCF\\I3D_center_crop_GAP\\"# './data/I3D_UCF/'
+        self.path_frame_feature = './data/I3D_UCF/'
 
     def __len__(self):
         return int(len(self.test_files)/self.batch_size)
